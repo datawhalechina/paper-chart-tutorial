@@ -1,5 +1,7 @@
 # 共读《科研论文配图绘制指南--基于Python》
 
+![](https://files.mdnice.com/user/3656/90af0a9f-165b-47e2-9b26-2bef7fabe49a.jpg)
+
 - 开源内容： https://github.com/datawhalechina/paper-chart-tutorial
 - 内容属性：合作课程
 - 课程编号：047
@@ -11,4 +13,11 @@
 - 学习周期：22天
 - 学习群个数：5
 - 学习人数：1000
+
+![](https://files.mdnice.com/user/3656/dc43309e-27d8-4412-a220-b52d99f68fb0.png)
+
+任务安排：
+
+
+![](https://files.mdnice.com/user/3656/a430c95b-a37d-48f1-9bac-0ef99e096868.png)
 
